@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on improving my tech skills, networking skills, and cybersecurity skills
+- 🔭 I’m currently working on improving my tech skills, networking skills, programming skills, and cybersecurity skills
 - 🌱 I’m currently learning python programming language, basics of networking
 - 📫 How to reach me:
   - Discord: coughing_missile
